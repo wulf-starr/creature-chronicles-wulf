@@ -1,2 +1,1 @@
-# creature-chronicles-wulf
-a simple website that displays media and facts of certain animals :3
+(this README will be worked on once the website is in a publishable state. please sit tight!!)
